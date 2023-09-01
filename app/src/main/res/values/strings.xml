@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppFinal</string>
+    <string name="boton1">Comparar</string>
+    <string name="texto1">Texto 1</string>
+    <string name="texto2">Texto 2</string>
+    <string name="textview" />
+</resources>
